@@ -1,5 +1,7 @@
 <h1 align="center">Hi  </a>, I'm Subadra Poshitha ☠</h1>
 
+![My card name](https://cardivo.vercel.app/api?name=Subadra%20-%20Poshitha&description=Hi,%20I'm%20a%20simple%20Developer%20☠&image=https://i.ibb.co/f2N1wmy/logo.jpg=___one____five___=@)
+
 <p align="center">
 <a href="https://codepen.io/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avipatilpro" height="30" width="40" /></a>
 <a href="https://dev.to/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="avipatilpro" height="30" width="40" /></a>
