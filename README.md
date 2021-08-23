@@ -39,7 +39,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubadraBro&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubadraBro&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
  
