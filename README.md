@@ -1,6 +1,6 @@
 <h1 align="center">Hi  </a>, I'm Subadra Poshitha 🤠</h1>
 
-![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Subadra%20Bro&description=I'm%20Simpal%20Developer&image=https://i.ibb.co/f2N1wmy/logo.jpg&backgroundColor=%238866f11)
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Subadra%20Bro&description=I'm%20Simpal%20Developer&image=https://i.ibb.co/kBPr7m7/Dark-logo.jpg&backgroundColor=%238866f11)
 
 <div align="center">
 
