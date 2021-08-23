@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **all things**
 
-- 📫 How to reach me **proavipatil@gmail.com**
+- 📫 How to reach me **scienceposhitha@gmail.com**
 
 ----
 
