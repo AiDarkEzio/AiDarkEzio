@@ -1,4 +1,4 @@
-<h1 align="center">Hi  </a>, I'm Subadra Poshitha ☠</h1>
+<h1 align="center">Hi  </a>, I'm Subadra Poshitha 🤠</h1>
 
 ![My card name](https://cardivo.vercel.app/api?name=Subadra%20-%20Poshitha&description=Hi,%20I'm%20a%20simple%20Developer%20☠&image=https://i.ibb.co/f2N1wmy/logo.jpg=___one____five___=@)
 
