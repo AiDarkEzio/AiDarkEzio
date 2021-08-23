@@ -37,15 +37,13 @@
 
 <br><br>
 
-```py
-About Me = [
-    "I'm student with noob dev labels",
-    "A know about of Python, HTML. CSS, PHP, JS, and Much More ...!",
-    "New Things with code everyday",
-    "I am in my world !! 💞"
-    "I Work for Mine"
-]
-```
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubadraBro&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+</div>
 
 <br><br>
 
