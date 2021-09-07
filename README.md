@@ -1,6 +1,6 @@
-<h1 align="center">Hi  </a>, I'm Subadra Poshitha 🤠</h1>
+<h1 align="center">Hi  </a>, I'm Subhadra Poshitha 🤠</h1>
 
-![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Subadra%20Bro&description=I'm%20Simpal%20Developer&image=https://i.ibb.co/kBPr7m7/Dark-logo.jpg&backgroundColor=%238866f11)
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Subhadra%20Bro&description=I'm%20Simpal%20Developer&image=https://i.ibb.co/kBPr7m7/Dark-logo.jpg&backgroundColor=%238866f11)
 
 <div align="center">
 
@@ -46,8 +46,18 @@
 
 ----
 
-<br><br>
+<br>
 
+<p align="center">
+    <a href="https://www.youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ"><img src="/img/youtube.png" alt="Subadra Bro" style="width:42px;height:42px;"></a>
+    <a href="https://www.gov.lk/welcome.html"><img src="/img/sri-lanka.png" alt="Subadra Bro" style="width:42px;height:42px;"></a>
+</p>
+
+
+<br>
+
+----
+# **I'm Working :-**
 <p align="center">
 <a href="https://codepen.io/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avipatilpro" height="30" width="40" /></a>
 <a href="https://dev.to/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="avipatilpro" height="30" width="40" /></a>
