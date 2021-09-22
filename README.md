@@ -7,6 +7,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubadraBro&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubadraBro&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SubadraBro&theme=highcontrast" alt="SubadraBro" /></p>
 </details>
 
@@ -22,6 +25,7 @@
 ![Metrics](https://metrics.lecoq.io/SubadraBro?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=SubadraBro&theme=highcontrast&repo=Pinky_V2)](https://github.com/SubadraBro/Pinku_V2)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SubadraBro&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 </details>
 </br>
