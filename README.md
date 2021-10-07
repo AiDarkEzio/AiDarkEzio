@@ -1,8 +1,10 @@
-<h1 align="center">Hi  </a>, I'm Subhadra Poshitha 🤠</h1>
-
-![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Subhadra%20Bro&description=I'm%20Simpal%20Developer&image=https://i.ibb.co/kBPr7m7/Dark-logo.jpg&backgroundColor=%238866f11)
-
 <div align="center">
+    <h1 >Hi, I'm Subhadra Poshitha 🤠</h1>
+    <br>
+    <h2> 😎😎 </h2
+<div>
+
+<br></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubadraBro&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubadraBro&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,6 +53,7 @@
 ----
 
 <br>
+
 # **🦖I'm in :-** 
 
 <p align="center">
