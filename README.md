@@ -51,6 +51,7 @@
 ----
 
 <br>
+# **🦖I'm in :-** 
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ"><img src="/img/youtube.png" alt="Subadra Bro" style="width:42px;height:42px;"></a>
@@ -61,7 +62,8 @@
 <br>
 
 ----
-# **I'm Working :-**
+# **🦖I'm Working :-**
+
 <p align="center">
 <a href="https://codepen.io/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avipatilpro" height="30" width="40" /></a>
 <a href="https://dev.to/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="avipatilpro" height="30" width="40" /></a>
