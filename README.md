@@ -12,22 +12,22 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SubadraBro&theme=highcontrast" alt="SubadraBro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AiDarkEzio&theme=highcontrast" alt="SubadraBro" /></p>
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=SubadraBro)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AiDarkEzio)
 
 </details>
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/SubadraBro?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/AiDarkEzio?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=SubadraBro&theme=highcontrast&repo=Pinky_V2)](https://github.com/SubadraBro/Pinku_V2)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SubadraBro&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AiDarkEzio&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 </details>
 </br>
