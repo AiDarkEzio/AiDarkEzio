@@ -1,18 +1,20 @@
 <div align="center">
     <h1 >Hi, I'm Subhadra Poshitha 🤠</h1>
     <br>
-    <h2> 😎😎 </h2
+    <h2> 😎↪🎮↩😎 </h2
 <div>
 
 <br></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiDarkEzio&show_icons=true&theme=blue-green)
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiDarkEzio&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+    
+ [![SubadraBro](https://github-readme-streak-stats.herokuapp.com/?user=AiDarkEzio&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)   
+ 
 </div>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AiDarkEzio&theme=highcontrast" alt="SubadraBro" /></p>
 </details>
 
 <details>
