@@ -5,11 +5,8 @@
 
 <br></h1>
 
-![Anurag's GitHub stats blue-green](https://github-readme-stats.vercel.app/api?username=AiDarkEzio&show_icons=true&theme=midnight-purple&custom_title=|%20Ai%20Dark%20Ezio%27s%20GitHub%20Stats%20|)
-    
-[![Top Langs midnight-purple](https://github-readme-stats.vercel.app/api/top-langs/?username=AiDarkEzio&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-    
- [![SubadraBro highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=AiDarkEzio&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)   
+
+ [![SubadraBro highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=AiDarkEzio&theme=midnight-purple)](https://aidarkezio.github.io)   
  
 </div>
 
