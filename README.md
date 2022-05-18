@@ -6,7 +6,7 @@
 <br></h1>
 
 
- [![SubadraBro highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=AiDarkEzio&theme=midnight-purple)](https://aidarkezio.github.io)   
+ [![SubadraBro highcontrast]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aidarkezio&theme=tokyonight&date_format=%5BY%20%5DM%20j&background=0F0F16&border=3BDD15&stroke=F924FF&dates=2CD5FF)](https://git.io/streak-stats))](https://aidarkezio.github.io)   
  
 </div>
 
