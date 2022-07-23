@@ -1,9 +1,12 @@
+![MasterHead](https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/matt%20zhang.png)
 <h1 align="center">Hey 👋, I'm Subhadra Poshitha</h1>
 <h3 align="center">I am simple developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidarkezio&label=Profile%20views&color=0e75b6&style=flat" alt="aidarkezio" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidarkezio" alt="aidarkezio" /></a> </p>
+
+<p><img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
 
 - 🔭 I’m currently working on [Whats-Bot-MD_V-5](https://github.com/AiDarkEzio/Whats-Bot-MD_V-5)
 
