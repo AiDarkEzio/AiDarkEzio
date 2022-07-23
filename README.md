@@ -1,4 +1,5 @@
-![MasterHead](https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/matt%20zhang.png)
+<div align="center"><img class="MasterHead" width="700" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/matt%20zhang.png" alt="aidarkezio" /></div>
+
 <h1 align="center">Hey 👋, I'm Subhadra Poshitha</h1>
 <h3 align="center">I am simple developer from Sri Lanka</h3>
 
