@@ -1,79 +1,37 @@
-<div align="center">
-    <h1 >Hi, I'm Subhadra Poshitha 🤠</h1>
-    <br>
-<div>
+<h1 align="center">Hey 👋, I'm Subhadra Poshitha</h1>
+<h3 align="center">I am simple developer from Sri Lanka</h3>
 
-<br></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidarkezio&label=Profile%20views&color=0e75b6&style=flat" alt="aidarkezio" /> </p>
 
-![Anurag's GitHub stats blue-green](https://github-readme-stats.vercel.app/api?username=AiDarkEzio&show_icons=true&theme=midnight-purple)
-    
-[![Top Langs midnight-purple](https://github-readme-stats.vercel.app/api/top-langs/?username=AiDarkEzio&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-    
- [![SubadraBro highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=AiDarkEzio&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)   
- 
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidarkezio" alt="aidarkezio" /></a> </p>
 
+- 🔭 I’m currently working on [Whats-Bot-MD_V-5](https://github.com/AiDarkEzio/Whats-Bot-MD_V-5)
 
+- 🌱 I’m currently learning **ReactJs, NodeJs, Html, Css, JS, Python.**
 
-</details>
+- 👯 I’m looking to collaborate on [zeqanpx](https://github.com/zeqanpx)
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+- 🤝 I’m looking for help with **others**
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AiDarkEzio)
+- 👨‍💻 All of my projects are available at [https://aidarkezio.github.io/](https://aidarkezio.github.io/)
 
-</details>
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+- 📫 How to reach me **subadraposhithapr@gmail.com**
 
-![Metrics](https://metrics.lecoq.io/AiDarkEzio?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+- ⚡ Fun fact **I think I'm happy**
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=SubadraBro&theme=highcontrast&repo=Pinky_V2)](https://github.com/SubadraBro/Pinku_V2)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AiDarkEzio&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidarkezio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="aidarkezio" /></p>
 
-</details>
-</br>
-</br>
-</br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidarkezio&show_icons=true&locale=en&theme=midnight-purple" alt="aidarkezio" /></p>
 
-- 👀 I’m interested in ...
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidarkezio&theme=midnight-purple" alt="aidarkezio" /></p>
 
-- 💞️ I’m looking to collaborate on ...
-
-- 🔭 I’m currently working not working I am offline <!-- [EDITH USER BOT](https://github.com/avipatilpro/EdithUserBot) -->
-
-- 🌱 I’m currently learning **New Things**
-
-- 👯 My Fun Fact is **Coffee & Friends**
-
-- 🤝 I’m looking for help with **Profession Developers**
-
-- 💬 Ask me about **all things**
-
-- 📫 How to reach me **scienceposhitha@gmail.com**
-
-----
-
-<br>
-
-# **🦖I'm in :-** 
-
-<p align="center">
-    <a href="https://www.youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ"><img src="/img/youtube.png" alt="Subadra Bro" style="width:42px;height:42px;"></a>
-    <a href="https://www.gov.lk/welcome.html"><img src="/img/sri-lanka.png" alt="Subadra Bro" style="width:42px;height:42px;"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/@aidarkezio-the-animator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@aidarkezio-the-animator" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19605861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19605861" height="30" width="40" /></a>
+<a href="https://fb.com/poshitha subadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poshitha subadra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/subadra bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="subadra bro" height="30" width="40" /></a>
 </p>
 
-
-<br>
-
-----
-# **🦖I'm Working :-**
-
-<p align="center">
-<a href="https://codepen.io/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avipatilpro" height="30" width="40" /></a>
-<a href="https://dev.to/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="avipatilpro" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/scienceposhitha?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Subadra Bro" height="30" width="40" /></a>
-</p>
-
-<p align="center"> 
-<code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code>&nbsp;<code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></code>&nbsp;<code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>&nbsp;<code><a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a></code>&nbsp;<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a></code>&nbsp;</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
