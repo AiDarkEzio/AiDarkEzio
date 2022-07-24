@@ -1,13 +1,15 @@
 <div align="center"><img class="MasterHead" width="700" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/matt%20zhang.png" alt="aidarkezio" /></div>
 
+<p> <img align="right" src="https://komarev.com/ghpvc/?username=aidarkezio&label=Profile%20views&color=0e75b6&style=flat" alt="aidarkezio" /> </p>
+
 <h1 align="center">Hey 👋, I'm Subhadra Poshitha</h1>
 <h3 align="center">I am simple developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidarkezio&label=Profile%20views&color=0e75b6&style=flat" alt="aidarkezio" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidarkezio" alt="aidarkezio" /></a> </p>
 
-<p><img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
+<p><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
+
+<hr>
 
 - 🔭 I’m currently working on [Whats-Bot-MD_V-5](https://github.com/AiDarkEzio/Whats-Bot-MD_V-5)
 
@@ -23,11 +25,15 @@
 
 - ⚡ Fun fact **I think I'm happy**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidarkezio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="aidarkezio" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidarkezio&show_icons=true&locale=en&theme=midnight-purple" alt="aidarkezio" /></p>
+<p alien="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidarkezio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="aidarkezio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidarkezio&theme=midnight-purple" alt="aidarkezio" /></p>
+<p alien="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidarkezio&show_icons=true&locale=en&theme=midnight-purple" alt="aidarkezio" /></p>
+
+<p alien="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidarkezio&theme=midnight-purple" alt="aidarkezio" /></p>
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
