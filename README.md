@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋, I'm Subhadra Poshitha</h1>
 <h3 align="center">I am simple developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidarkezio" alt="aidarkezio" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidarkezio&theme=onedark&no-bg=true&no-frame=false&column=-1&margin-w=15" alt="aidarkezio" /></a> </p>
 
 <p><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
 
