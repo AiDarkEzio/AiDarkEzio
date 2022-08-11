@@ -31,11 +31,11 @@
 
 <hr>
 
-<p alien="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidarkezio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="aidarkezio" /></p>
+<p alien="center"><img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidarkezio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="aidarkezio" /></p>
 
-<p alien="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidarkezio&show_icons=true&locale=en&theme=midnight-purple" alt="aidarkezio" /></p>
+<p alien="center">&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=aidarkezio&show_icons=true&locale=en&theme=midnight-purple" alt="aidarkezio" /></p>
 
-<p alien="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidarkezio&theme=midnight-purple" alt="aidarkezio" /></p>
+<p alien="center"><img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=aidarkezio&theme=midnight-purple" alt="aidarkezio" /></p>
 
 <hr>
 
