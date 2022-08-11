@@ -5,11 +5,13 @@
 <h1 align="center">Hey 👋, I'm Subhadra Poshitha</h1>
 <h3 align="center">I am simple developer from Sri Lanka</h3>
 
+<hr>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidarkezio&theme=onedark&no-bg=true&no-frame=false&column=-1&margin-w=15" alt="aidarkezio" /></a> </p>
 
-<p><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
-
 <hr>
+
+<p><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
 
 - 🔭 I’m currently working on [Whats-Bot-MD_V-5](https://github.com/AiDarkEzio/Whats-Bot-MD_V-5)
 
@@ -24,6 +26,8 @@
 - 📫 How to reach me **subadraposhithapr@gmail.com**
 
 - ⚡ Fun fact **I think I'm happy**
+
+<p><img align="right" alt="Coding" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31jy5zdmvihb6ho6xuadzkd2tlh4&cover_image=true&theme=compact" alt="aidarkezio" /></p>
 
 <hr>
 
