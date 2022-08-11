@@ -39,8 +39,10 @@
 <p align="left">
 <a href="https://codepen.io/aidarkezio-the-animator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@aidarkezio-the-animator" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19605861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19605861" height="30" width="40" /></a>
-<a href="https://fb.com/poshitha subadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poshitha subadra" height="30" width="40" /></a>
+<a href="https://fb.com/poshitha.subadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poshitha subadra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="subadra bro" height="30" width="40" /></a>
+<a href="https://twitter.com/brosubadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brosubadra" height="30" width="40" /></a>
+<a href="https://instagram.com/subadraposhitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subadraposhitha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
