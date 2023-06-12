@@ -1,6 +1,6 @@
 <div align="center"><img class="MasterHead" width="700" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/matt%20zhang.png" alt="aidarkezio" /></div>
 
-<p> <img align="right" src="https://komarev.com/ghpvc/?username=aidarkezio&label=Profile%20views&color=0e75b6&style=flat" alt="aidarkezio" /> </p>
+<p> <img align="right" src="https://komarev.com/ghpvc/?username=aidarkezio&label=Profile%20views&color=blueviolet&style=flat" alt="aidarkezio" /> </p>
 
 <h1 align="center">Hey 👋, I'm Subhadra Poshitha</h1>
 <h3 align="center">I am simple developer from Sri Lanka</h3>
@@ -13,7 +13,7 @@
 
 <p><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
 
-- 🔭 I’m currently working on [Whats-Bot-MD_V-5](https://github.com/AiDarkEzio/Whats-Bot-MD_V-5)
+- 🔭 I’m currently working on [-](https://github.com/AiDarkEzio/)
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, Html, Css, JS, Python.**
 
@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I think I'm happy**
 
-<p><img align="right" alt="Coding" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31jy5zdmvihb6ho6xuadzkd2tlh4&cover_image=true&theme=compact" alt="aidarkezio" /></p>
+<p><img align="right" alt="spotify-github-profile" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31xazgnrwp6r5qt2skcaresdgudi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="aidarkezio" /></p>
 
 <hr>
 
