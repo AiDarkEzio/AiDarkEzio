@@ -26,7 +26,7 @@
 
 - 📫 To reach me: **subadraposhithapr@gmail.com**
 
-- ⚡ Fun fact **I think I'm good at coding but I am not.😏**
+- ⚡ Fun fact: **I think I'm good at coding but I am not.😏**
 
 <p><img align="right" alt="spotify-github-profile" width="400" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xazgnrwp6r5qt2skcaresdgudi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="aidarkezio" /></p>
 
